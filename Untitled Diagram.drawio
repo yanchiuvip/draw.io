@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T14:05:19.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SOn3h61WD1YsXdopVJHR" version="17.4.6" type="github"><diagram id="Gl2fd95giOkL8INHm4dN" name="Page-1">5Vnbkps4EP0aPWaLm0B6BBtnU5Xdna2prU2eUsQohgQjlyyP7Xz9ti4YYxgPqYxDMvtkqdVqoVaf02oZ+bP14bXINsUfPGcV8pz8gPw58jzX8Qn8KMnRSHAQGcFKlLlVagX35VfWzLTSXZmzbUdRcl7JctMVLnlds6XsyDIh+L6r9olX3VU32Yr1BPfLrOpL/y1zWRgp8aJW/jsrV0WzshtSM7LOGmW7k22R5Xx/JvJT5M8E59K01ocZq5TzGr+YeYtHRk8fJlgtR034/KWSpHr3Ov7r/m/njX+8++fuVWCsPGTVzm7Yfqw8Nh5gOTjEdrmQBV/xOqvSVpoIvqtzppZxoNfqvOV8A0IXhJ+ZlEd7utlOchAVcl3ZUbOmWujRvVnRlu/Ekl3ZUBMjmVgxeUXPP50AhC7jaybFEeYJVmWyfOh+R2ZjaHXSa90MDevpb/C62/d6ShFxEKEoDVBCUDyXS5RiFC9QAjKCEhfFbu9sWs8rN+6LUrL7TaYdtAc8Dnn5gQnJDtf93PdLM4HYYLZopra7b6HhNvFenMHCd27kyfClxa8/Mn7xlPHrPxa/NNaxukAk0hKMyBylEUrmKE5RGiIa6iGI8QQloVaGoZkaAs3Ys+GfxGoWoCGmdhalCg4gp/4ZLowkUMqwNAkGIKNWd9VyMERTRJJegDwBmy7GbgAil+BxKApvhSLy0lCER6IomhJFeABFIYodHb4GDylE5voDWFF9onAAca3yBO7jQ2n5etAdUofoB8ilqkEAIZGet0Ax1spUD12FHKCIagyDwdhgeKEBFqoVAXU/G658b2pcNZfYlwOsaCSw6KTXq4H89P9wu+tN6fdokNAoUeSg+Ad4Ixygnd6ltuDrj7vt0xfaZ2cQz+kySID7DEIGCITcjEBeXGamYyN50tRMhyP5Il1ilWQTx8Y2SXW2TXVu1UlW5d9fMG+G0+fNfoH8vucm2LDseiarylUN7SVsnAkQKLeUy6yK7cC6zHODCLYtv2YftSmFiQ0va6l3gROE58oWgGBr8KBMb6XgX9iMVxzszmteKyufyqq6ED0HCQXd48Bhv8geOg3vZqdBp+Ac8JY4vjvvvFfGfsNNd36wxk3vaHvPyFWu96PISk+NhciOZwo2KFvLd0rQBkrgdQMlovjirI3F9uRPn/YdweANUKNmQeLrMjxAMdH8B7V22FQbnm7EikEVR/qq6jcPBVCUQAPokMyGyDLUPOqcEWqoyhH1qhAoI3Q2OX364cWlIZycPvuV5Z8j6HMsx42n2aGj6BLDc/Aledr/4Y98k/T62esXv7S5Y+uPsz82pqj7hgqQSL39kaBpRMOvHEAuxNzxsL7RnR5SiHq4NM+I0KDRFeWN4Eu23b7JJ6ekyxtdNDkleQMvIQNpY9DbM/0gdnpN1k9SppCEHBNjeyKx/9O5nTq3czt0278OTXJv/4D10/8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-25T14:05:41.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="sBa04IOsD-6raWjLOQA8" version="17.4.6" type="github">
+  <diagram id="Gl2fd95giOkL8INHm4dN" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jklt8lXGAOSQ0I3yPUP-1" target="1jklt8lXGAOSQ0I3yPUP-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-1" value="选中tc对象" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jklt8lXGAOSQ0I3yPUP-3" target="1jklt8lXGAOSQ0I3yPUP-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-3" value="通过配置文件转换为物料库对应的对象类型" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jklt8lXGAOSQ0I3yPUP-5" target="1jklt8lXGAOSQ0I3yPUP-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-5" value="根据item_id或者物料id、或者图号查找物料库属性信息" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jklt8lXGAOSQ0I3yPUP-7" target="1jklt8lXGAOSQ0I3yPUP-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jklt8lXGAOSQ0I3yPUP-7" target="1jklt8lXGAOSQ0I3yPUP-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-7" value="是否查找" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="455" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jklt8lXGAOSQ0I3yPUP-9" target="1jklt8lXGAOSQ0I3yPUP-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-9" value="查找到后获取属性信息" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-11" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1jklt8lXGAOSQ0I3yPUP-12" target="1jklt8lXGAOSQ0I3yPUP-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-12" value="调用历史功能进行属性提取操作" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-15" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jklt8lXGAOSQ0I3yPUP-17" target="1jklt8lXGAOSQ0I3yPUP-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-17" value="组织物料参数、计算参数、processId" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jklt8lXGAOSQ0I3yPUP-20" value="调用计算匹配度接口" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="905" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
